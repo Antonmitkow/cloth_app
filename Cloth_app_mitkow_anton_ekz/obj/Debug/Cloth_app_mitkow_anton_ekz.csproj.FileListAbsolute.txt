@@ -1,0 +1,13 @@
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\bin\Debug\Cloth_app_mitkow_anton_ekz.exe.config
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\bin\Debug\Cloth_app_mitkow_anton_ekz.exe
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\bin\Debug\Cloth_app_mitkow_anton_ekz.pdb
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.Autorization.resources
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.Properties.Resources.resources
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.exe
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.pdb
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.Administrator.resources
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.Product.resources
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.ProductRedactor.resources
+C:\Users\roman\source\repos\Cloth_app_mitkow_anton_ekz\Cloth_app_mitkow_anton_ekz\obj\Debug\Cloth_app_mitkow_anton_ekz.csproj.AssemblyReference.cache
